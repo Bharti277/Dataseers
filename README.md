@@ -2,7 +2,14 @@
 ![Screenshot (293)](https://github.com/Bharti277/Dataseers/assets/57709459/160cffca-fd1b-4b9f-aff9-26f6fc0f15b6)
 ![Screenshot (294)](https://github.com/Bharti277/Dataseers/assets/57709459/cab4f256-66f6-4f0b-8eed-f978c0219e44)
 
-To run the app 
+# React Portfolio
 
- npm i
- npm run dev
+    npm i
+
+### Used Technology
+ - HTML
+ - CSS
+ - JavaScript
+ - ReactJs
+ - MUI
+ - ExpressJs
