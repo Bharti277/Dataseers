@@ -3,5 +3,6 @@
 ![Screenshot (294)](https://github.com/Bharti277/Dataseers/assets/57709459/cab4f256-66f6-4f0b-8eed-f978c0219e44)
 
 To run the app 
-#npm i
-#npm run dev
+
+ npm i
+ npm run dev
