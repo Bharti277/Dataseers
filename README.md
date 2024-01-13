@@ -3,9 +3,10 @@
 ![Screenshot (294)](https://github.com/Bharti277/Dataseers/assets/57709459/cab4f256-66f6-4f0b-8eed-f978c0219e44)
 
 # Dataseers
-To run the application run below commands
+To install the packages
 
     npm i
+To run the application run below command
     npm run dev
 
 ### Used Technology
