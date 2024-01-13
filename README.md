@@ -7,6 +7,7 @@ To install the packages
 
     npm i
 To run the application run below command
+
     npm run dev
 
 ### Used Technology
